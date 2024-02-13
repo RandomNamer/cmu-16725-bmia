@@ -1,2 +1,4 @@
 hw01_intro/
 *.DS_Store
+deps/*
+!deps/git_placeholder
